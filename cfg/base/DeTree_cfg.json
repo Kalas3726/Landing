@@ -1,0 +1,6 @@
+{
+  "name": "DeTree",
+  "criterion": "gini",
+  "splitter": "best",
+  "random_state": 0
+}

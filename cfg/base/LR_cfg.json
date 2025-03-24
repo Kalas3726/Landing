@@ -1,0 +1,6 @@
+{
+  "name": "LR",
+  "solver": "liblinear",
+  "C": 1.0,
+  "multi_class": "auto"
+}

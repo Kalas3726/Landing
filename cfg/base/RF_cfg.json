@@ -1,0 +1,5 @@
+{
+  "name": "RF",
+  "n_estimators": 100,
+  "criterion": "gini"
+}

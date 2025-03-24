@@ -1,0 +1,6 @@
+{
+  "name": "knn",
+  "n_neighbors": 3,
+  "weights": "uniform",
+  "leaf_size": 30
+}
